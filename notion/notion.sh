@@ -1,3 +1,3 @@
-brave-browser -new-window https://www.notion.so/josejuanse/Life-Wiki-3885d01cdf07431e8d1aeabad543dd34
+here-your-browser's-name (i.e. chrome firefox brave-browser) -new-window here-your-notion-link...
 sleep 2
 xdotool key F11
