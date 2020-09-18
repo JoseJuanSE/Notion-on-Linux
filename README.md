@@ -1,3 +1,6 @@
 # Tutorial to get Notion on Linux
     An easy way to get notion app on linux
-![](notion/notion.png){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+<img align="left" width="100" height="100" src="notion/notion.png">
+  lol xDDDD lol xDDDD lol xDDDD lol xDDDD lol xDDDD lol xDDDD lol xDDDD lol xDDDD  lol xDDDD lol xDDDD lol xDDDD lol xDDDD lol xDDDD lol xDDDD lol xDDDD lol xDDDD 
+   lol xDDDD lol xDDDD lol xDDDD lol xDDDD lol xDDDD lol xDDDD lol xDDDD lol xDDDD  vlol xDDDD lol xDDDD lol xDDDD lol xDDDD lol xDDDD lol xDDDD lol xDDDD lol xDDDD 
+   lol xDDDD lol xDDDD lol xDDDD lol xDDDD lol xDDDD lol xDDDD lol xDDDD lol xDDDD 
