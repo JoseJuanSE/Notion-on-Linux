@@ -1,20 +1,3 @@
 # Tutorial to get Notion on Linux
     An easy way to get notion app on linux
-    loldasdjaskldjklasdjklasdas loldasdjaskldjklasdjklasdas
- vloldasdjaskldjklasdjklasdas loldasdjaskldjklasdjklasdas 
-loldasdjaskldjklasdjklasdas loldasdjaskldjklasdjklasdas
- vloldasdjaskldjklasdjklasdas loldasdjaskldjklasdjklasdas 
-loldasdjaskldjklasdjklasdas loldasdjaskldjklasdjklasdas
- vloldasdjaskldjklasdjklasdas loldasdjaskldjklasdjklasdas
-loldasdjaskldjklasdjklasdas loldasdjaskldjklasdjklasdas
- vloldasdjaskldjklasdjklasdas loldasdjaskldjklasdjklasdas 
-loldasdjaskldjklasdjklasdas loldasdjaskldjklasdjklasdas
- vloldasdjaskldjklasdjklasdas loldasdjaskldjklasdjklasdas 
-loldasdjaskldjklasdjklasdas loldasdjaskldjklasdjklasdas
- vloldasdjaskldjklasdjklasdas loldasdjaskldjklasdjklasdas 
-loldasdjaskldjklasdjklasdas loldasdjaskldjklasdjklasdas
- vloldasdjaskldjklasdjklasdas loldasdjaskldjklasdjklasdas 
-loldasdjaskldjklasdjklasdas loldasdjaskldjklasdjklasdas
-![align="right"](notion/notion.png)
-
-
+![](notion/notion.png){:style="float: right;margin-right: 7px;margin-top: 7px;"}
