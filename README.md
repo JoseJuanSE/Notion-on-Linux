@@ -8,4 +8,4 @@ And for that reason I was trying to get an alternative. I got it. And it really 
 <br/>
  ##  Lets start
  simon
-![](/'Media Resources'/Final.gif)
+![](/Media%20Resources/Final.gif)
